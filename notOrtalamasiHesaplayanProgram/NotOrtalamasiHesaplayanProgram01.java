@@ -1,6 +1,8 @@
+package notOrtalamasiHesaplayanProgram;
+
 import java.util.Scanner;
 
-public class NotOrtalamasiHesaplayanProgram {
+public class NotOrtalamasiHesaplayanProgram01 {
     public static void main(String[] args) {
         // degiskenleri olustur
         int mat, fizik, kimya, turkce, tarih, muzik;
