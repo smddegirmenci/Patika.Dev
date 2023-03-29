@@ -15,8 +15,8 @@ public class DaireninCevresiVeAlani {
         double alan= pi*r*r;
         double cevre = 2*pi*r;
         double daireDilimininAlani = (pi*r*r*a)/360;
-        System.out.println("Dairenin alani : "+alan);
-        System.out.println("Dairenin cevresi : "+cevre);
+        System.out.println("Dairenin  alani : "+alan);
+        System.out.println("Dairenin  cevresi : "+cevre);
         System.out.println("Daire diliminin alani : "+daireDilimininAlani);
 
 
