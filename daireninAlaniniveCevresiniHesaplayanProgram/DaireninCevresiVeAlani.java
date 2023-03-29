@@ -19,6 +19,7 @@ public class DaireninCevresiVeAlani {
         System.out.println("Dairenin cevresi : "+cevre);
         System.out.println("Daire diliminin alani : "+daireDilimininAlani);
 
+
     }
 
 }

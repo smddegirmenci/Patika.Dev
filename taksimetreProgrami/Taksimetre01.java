@@ -15,6 +15,7 @@ public class Taksimetre01 {
 
         odenecekTutar=startPrice+(km*perkm);
         odenecekTutar=odenecekTutar<20 ? 20 :odenecekTutar;
+
         System.out.println("odenecekTutar = " + odenecekTutar);
 
     }
