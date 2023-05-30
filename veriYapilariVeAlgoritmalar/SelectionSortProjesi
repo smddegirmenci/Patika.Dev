@@ -13,17 +13,12 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
 n+(n-1)+(n-2)...(n-4)+1=[n.(n+1)]/2=(n^2+n)/2
-o(n^2)
+O(n^2)
 
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
-Ortada olduğu için Average case.
-
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
-
+18 sayısı ortada olduğu için Average case.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
